@@ -1,0 +1,10 @@
+янв. 26, 2023 5:07:36 PM HomeWork.HomeWork2.task4.CalkLog main
+INFO: Thu Jan 26 17:07:36 GMT+04:00 2023
+янв. 26, 2023 5:07:36 PM HomeWork.HomeWork2.task4.CalkLog main
+INFO: Пользователь ввел 1 число = 25
+янв. 26, 2023 5:07:36 PM HomeWork.HomeWork2.task4.CalkLog main
+INFO: Пользователь ввел 2 число = 20
+янв. 26, 2023 5:07:36 PM HomeWork.HomeWork2.task4.CalkLog main
+INFO: Пользователь ввел оператор '*'
+янв. 26, 2023 5:07:36 PM HomeWork.HomeWork2.task4.CalkLog main
+INFO: Пользователь получил ответ : 25 * 20 = 500
